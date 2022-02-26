@@ -27,7 +27,7 @@ body {
 
 .smnews {
   position: relative;
-  left: 2%;
+  left: 2%;;
 }
 
 .topmenu {
@@ -90,3 +90,8 @@ img {
   left: 50%;
   bottom: 1320px;
 }
+
+a:hover {
+  color: gray;
+}
+
