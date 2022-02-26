@@ -72,3 +72,9 @@ img {
 .videosize13 {
   width: 800px;
 }
+
+.article3 {
+  position: relative;
+  left: 50%;
+  bottom: 1355px;
+}
