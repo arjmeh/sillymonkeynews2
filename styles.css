@@ -27,7 +27,7 @@ body {
 
 .smnews {
   position: relative;
-  left: 2%;;
+  left: 2%;
 }
 
 .topmenu {
@@ -52,14 +52,16 @@ img {
 }
 
 .thirteen {
+  position: relative;
+  left: 85%;
   position: absolute;
-  right: 4%;
   top: 4%;
 }
 
 .home {
-  position: absolute;
+  position: relative;
   right: 18%;
+  position: absolute;
   top: 4%;
 }
 
@@ -95,3 +97,14 @@ a:hover {
   color: gray;
 }
 
+
+.menubar {
+  max-width: 3000px;
+  height: 11%;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: black;
+}
