@@ -39,7 +39,7 @@ body {
 }
 
 .topmenu {
-  font-family: 'Libre Baskerville', serif;
+  font-family: "Libre Baskerville", serif;
 }
 
 .article {
@@ -98,7 +98,6 @@ img {
 .video2 {
   position: relative;
   left: 50%;
-
 }
 
 a:hover {
@@ -106,6 +105,17 @@ a:hover {
 }
 
 .article4 {
+  position: relative;
+  left: 2%;
+}
+
+.article5 {
+  position: absolute;
+  left: 50%;
+  top: 165%;
+}
+
+.article6 {
   position: relative;
   left: 2%;
 }
