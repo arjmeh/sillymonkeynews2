@@ -112,7 +112,8 @@ a:hover {
 .article5 {
   position: absolute;
   left: 50%;
-  top: 165%;
+  top: 160%;
+  display: inline;
 }
 
 .article6 {
