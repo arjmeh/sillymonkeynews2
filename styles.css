@@ -35,7 +35,7 @@ body {
 
 .smnews {
   position: relative;
-  left: 2%;
+  left: 4%;
 }
 
 .topmenu {
@@ -49,7 +49,7 @@ body {
 
 .article1 {
   position: relative;
-  left: 2%;
+  left: 4%;
   top: 0;
 }
 
@@ -75,7 +75,7 @@ img {
 
 .article2 {
   position: relative;
-  left: 2%;
+  left: 4%;
   top: 0;
 }
 
@@ -92,7 +92,7 @@ img {
 .video1 {
   display: inline-block;
   position: relative;
-  left: 2%;
+  left: 4%;
 }
 
 .video2 {
@@ -106,7 +106,7 @@ a:hover {
 
 .article4 {
   position: relative;
-  left: 2%;
+  left: 4%;
 }
 
 .article5 {
@@ -117,5 +117,5 @@ a:hover {
 
 .article6 {
   position: relative;
-  left: 2%;
+  left: 4%;
 }
