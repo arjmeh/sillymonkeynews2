@@ -149,3 +149,9 @@ footer > svg.instagram{
   top: 27%;
   margin: 10px;
 }
+
+.article7{
+  display: inline-block;
+  position: relative;
+  left: 21%;
+}
