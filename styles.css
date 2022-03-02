@@ -35,7 +35,7 @@ body {
 
 .smnews {
   position: relative;
-  left: 4%;
+  left: 6%;
 }
 
 .topmenu {
@@ -48,8 +48,9 @@ body {
 }
 
 .article1 {
+  display: inline-block;
   position: relative;
-  left: 4%;
+  left: 6%;
   top: 0;
 }
 
@@ -74,8 +75,10 @@ img {
 }
 
 .article2 {
+  display: inline-block;
+  margin:0;
   position: relative;
-  left: 4%;
+  left: 20%;
   top: 0;
 }
 
@@ -84,15 +87,16 @@ img {
 }
 
 .article3 {
-  position: absolute;
-  left: 50%;
-  top: 8%;
+  display: inline-block;
+  position: relative;
+  left: 6%;
+  top: 0%;
 }
 
 .video1 {
   display: inline-block;
   position: relative;
-  left: 4%;
+  left: 6%;
 }
 
 .video2 {
@@ -105,18 +109,43 @@ a:hover {
 }
 
 .article4 {
+  display: inline-block;
   position: relative;
-  left: 4%;
+  left: 6%;
+  top: 0;
 }
 
 .article5 {
-  position: absolute;
-  left: 50%;
-  top: 160%;
-  display: inline;
+  display: inline-block;
+  position: relative;
+  left: 6%;
+
 }
 
 .article6 {
+  display: inline-block;
   position: relative;
-  left: 4%;
+  left: 12%;
+  top: 0;
+}
+
+
+footer{
+  width: 100vw;
+  height: 10vw;
+  background-color: gray;
+}
+
+footer > svg.youtube{
+  width: 5%;
+  position: relative;
+  top: 27%;
+  margin: 10px;
+}
+
+footer > svg.instagram{
+  width: 5%;
+  position: relative;
+  top: 27%;
+  margin: 10px;
 }
