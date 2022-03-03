@@ -34,6 +34,7 @@ body {
 }
 
 .smnews {
+  display: inline-block;
   position: relative;
   left: 6%;
 }
@@ -111,7 +112,7 @@ a:hover {
 .article4 {
   display: inline-block;
   position: relative;
-  left: 6%;
+  left: 25%;
   top: 0;
 }
 
@@ -125,8 +126,7 @@ a:hover {
 .article6 {
   display: inline-block;
   position: relative;
-  left: 12%;
-  top: 0;
+  left: 6%;
 }
 
 
@@ -154,4 +154,10 @@ footer > svg.instagram{
   display: inline-block;
   position: relative;
   left: 21%;
+}
+.article8{
+  display: inline-block;
+  position: relative;
+  left: 6%;
+  top: 0;
 }
