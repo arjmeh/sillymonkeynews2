@@ -47,7 +47,7 @@ body {
 }
 
 .article {
-  
+  display: inline-block;
   font-family: "Roboto", sans-serif;
   color: black;
 }
@@ -60,6 +60,7 @@ body {
 }
 
 img {
+  display: inline-block;
   width: 400px;
   height: 200px;
   border-radius: 10px;
@@ -171,7 +172,7 @@ footer > svg.instagram{
 .article9{
   display: inline-block;
   position: relative;
-  left: 21%;
+  left: 17%;
 }
 
 .logo{
