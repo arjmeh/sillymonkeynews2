@@ -1,6 +1,7 @@
 .text {
   color: black;
   font-family: "Chivo", sans-serif;
+  white-space: normal;
 }
 
 a:link {
@@ -161,6 +162,7 @@ footer > svg.instagram{
   display: inline-block;
   position: relative;
   left: 6%;
+  
 }
 .article8{
   display: inline-block;
@@ -186,4 +188,7 @@ footer > svg.instagram{
   display: inline-block;
   position: relative;
   left: 21%;
+  padding: 50px;
+  margin-right: 50px;
+  margin-left: 0px;
 }
