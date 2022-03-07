@@ -32,6 +32,7 @@ body {
   top: 0;
   bottom: 0;
   overflow-x: hidden;
+  overflow-y: overlay;
 }
 
 .smnews {
@@ -174,7 +175,8 @@ footer > svg.instagram{
 .article9{
   display: inline-block;
   position: relative;
-  left: 17%;
+  left: 21%;
+  padding-right: 220px;
 }
 
 .logo{
@@ -187,8 +189,8 @@ footer > svg.instagram{
 .article10{
   display: inline-block;
   position: relative;
-  left: 21%;
-  padding: 50px;
+  left: 19%;
+  padding-right: 220px;
   margin-right: 50px;
   margin-left: 0px;
 }
