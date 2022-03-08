@@ -88,7 +88,7 @@ img {
   display: inline-block;
   margin: 0;
   position: relative;
-  left: 21%;
+  left: 6%;
   top: 0;
 }
 
@@ -121,7 +121,7 @@ a:hover {
 .article4 {
   display: inline-block;
   position: relative;
-  left: 26%;
+  left: 6%;
   top: 0;
 }
 
@@ -134,7 +134,10 @@ a:hover {
 .article6 {
   display: inline-block;
   position: relative;
-  left: 6%;
+  left: 23%;
+  padding-right: 220px;
+  margin-right: 50px;
+  margin-left: 0px;
 }
 
 footer {
@@ -160,7 +163,7 @@ footer > svg.instagram {
 .article7 {
   display: inline-block;
   position: relative;
-  left: 6%;
+  left: 5%;
 }
 .article8 {
   display: inline-block;
@@ -172,7 +175,7 @@ footer > svg.instagram {
 .article9 {
   display: inline-block;
   position: relative;
-  left: 21%;
+  left: 6%;
   padding-right: 220px;
 }
 
@@ -186,7 +189,7 @@ footer > svg.instagram {
 .article10 {
   display: inline-block;
   position: relative;
-  left: 19%;
+  left: 6%;
   padding-right: 220px;
   margin-right: 50px;
   margin-left: 0px;
@@ -209,4 +212,13 @@ footer > svg.instagram {
   background-color: black;
   padding: 0;
   margin: 0;
+}
+
+.article12{
+  display: inline-block;
+  position: relative;
+  left: 21%;
+  padding-right: 220px;
+  margin-right: 50px;
+  margin-left: 0px;
 }
