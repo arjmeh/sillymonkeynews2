@@ -176,7 +176,7 @@ footer > svg.instagram {
 .article9 {
   display: inline-block;
   position: relative;
-  left: 6%;
+  left: 21%;
   padding-right: 220px;
 }
 
@@ -265,10 +265,17 @@ footer > svg.instagram {
 .article18{
   display: inline-block;
   position: relative;
-  left: 18%;
+  left: 6%;
 }
 
 .googleform {
   position: relative;
   left: 15%;
+}
+
+.article20{
+  display: inline-block;
+  position: relative;
+  left: 0%;
+  top: 0;
 }
