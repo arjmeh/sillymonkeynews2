@@ -318,3 +318,17 @@ footer > svg.instagram {
   position: relative;
 
 }
+
+
+#yuckpic {
+  display: none;
+}
+
+
+#showbutton {
+  border: none;
+  border-radius: 5px;
+  font-weight: bolder;
+  background-color: brown;
+  color: white;
+}
