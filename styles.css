@@ -337,3 +337,9 @@ footer > svg.instagram {
   color: white;
 }
 
+.colorbut {
+  margin: 5px;
+  display: inline-block;
+  border: none;
+  border-radius: 5px;
+}
