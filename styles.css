@@ -343,3 +343,19 @@ footer > svg.instagram {
   border: none;
   border-radius: 5px;
 }
+
+.goodbye {
+  display: inline-block;
+  position: relative;
+  color: black;
+  font-family: 'David Libre', serif;
+  font-size: 3rem;
+}
+
+.goodbye2 {
+  display: inline-block;
+  position: relative;
+  color: black;
+  font-family: 'David Libre', serif;
+  font-size: 2rem;
+}
