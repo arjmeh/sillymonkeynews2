@@ -359,3 +359,10 @@ footer > svg.instagram {
   font-family: 'David Libre', serif;
   font-size: 2rem;
 }
+
+ul {
+  /*remove bulletpoints*/
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
